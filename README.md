@@ -157,7 +157,7 @@ Similarity(nlp, class)
 
 ## Author
 
-**Abdullah Nazir**
+M.SAQLAIN 
 AI | Machine Learning | NLP
 Python • Scikit-Learn • NLTK • Gensim
 
